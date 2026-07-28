@@ -179,17 +179,29 @@
     "st_direction": "bull",
     "st_confluencia": null
   },
-  "_vol_extrema_XMRUSDT": false,
+  "_vol_extrema_XMRUSDT": true,
+  "_trade_count": {
+    "2026-07-28": 1
+  },
+  "_trade_XMRUSDT": {
+    "entry": 336.824463,
+    "sl": 338.8895,
+    "tp1": 333.7269,
+    "tp2": 331.6619,
+    "tp3": 328.5644,
+    "direction": "short",
+    "tp1_hit": false,
+    "tp2_hit": false,
+    "tp3_hit": false
+  },
   "_forming_XMRUSDT": "none",
-  "_b_1h_XMRUSDT": false,
+  "_b_1h_XMRUSDT": true,
   "XMRUSDT": {
-    "grade": "none",
+    "grade": "B",
     "blocked": false,
     "stc_warn": false,
     "st_direction": "bear",
     "st_confluencia": "bear"
   },
-  "_consecutive_expired": 0,
-  "_circuit_breaker_sent": false,
-  "_circuit_breaker_date": "2026-07-28"
+  "_consecutive_expired": 0
 }
