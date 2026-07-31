@@ -30,7 +30,6 @@
     "st_confluencia": "bear"
   },
   "_vol_extrema_BNBUSDT": false,
-  "_forming_BNBUSDT": "long",
   "_b_1h_BNBUSDT": false,
   "BNBUSDT": {
     "grade": "none",
@@ -100,14 +99,14 @@
     "st_confluencia": "bear"
   },
   "_vol_extrema_NEARUSDT": false,
-  "_forming_NEARUSDT": "short",
+  "_forming_NEARUSDT": "none",
   "_b_1h_NEARUSDT": false,
   "NEARUSDT": {
     "grade": "none",
     "blocked": false,
     "stc_warn": false,
     "st_direction": "bear",
-    "st_confluencia": "bear"
+    "st_confluencia": null
   },
   "_vol_extrema_OPUSDT": false,
   "_forming_OPUSDT": "none",
@@ -129,24 +128,11 @@
     "st_direction": "bear",
     "st_confluencia": "bear"
   },
-  "_vol_extrema_RENDERUSDT": true,
-  "_trade_count": {
-    "2026-07-31": 1
-  },
-  "_trade_RENDERUSDT": {
-    "entry": 1.384,
-    "sl": 1.3938,
-    "tp1": 1.3693,
-    "tp2": 1.3594,
-    "tp3": 1.3447,
-    "direction": "short",
-    "tp1_hit": false,
-    "tp2_hit": false,
-    "tp3_hit": false
-  },
-  "_b_1h_RENDERUSDT": true,
+  "_vol_extrema_RENDERUSDT": false,
+  "_forming_RENDERUSDT": "none",
+  "_b_1h_RENDERUSDT": false,
   "RENDERUSDT": {
-    "grade": "B",
+    "grade": "none",
     "blocked": false,
     "stc_warn": false,
     "st_direction": "bear",
@@ -202,7 +188,5 @@
     "st_direction": "bear",
     "st_confluencia": "bear"
   },
-  "_consecutive_expired": 0,
-  "_circuit_breaker_sent": false,
-  "_circuit_breaker_date": "2026-07-31"
+  "_consecutive_expired": 1
 }
