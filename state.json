@@ -101,7 +101,7 @@
     "tp2_hit": false,
     "tp3_hit": false
   },
-  "_forming_DOTUSDT": "long",
+  "_forming_DOTUSDT": "none",
   "_b_1h_DOTUSDT": false,
   "DOTUSDT": {
     "grade": "none",
@@ -121,7 +121,6 @@
     "st_confluencia": null
   },
   "_vol_extrema_OPUSDT": false,
-  "_forming_OPUSDT": "short",
   "_b_1h_OPUSDT": false,
   "OPUSDT": {
     "grade": "none",
@@ -141,7 +140,7 @@
     "st_confluencia": null
   },
   "_vol_extrema_RENDERUSDT": false,
-  "_forming_RENDERUSDT": "none",
+  "_forming_RENDERUSDT": "short",
   "_b_1h_RENDERUSDT": false,
   "RENDERUSDT": {
     "grade": "none",
@@ -200,5 +199,7 @@
     "st_direction": "bull",
     "st_confluencia": null
   },
-  "_consecutive_expired": 0
+  "_consecutive_expired": 0,
+  "_circuit_breaker_sent": false,
+  "_circuit_breaker_date": "2026-08-05"
 }
