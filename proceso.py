@@ -723,7 +723,7 @@ def main():
             f"🕖 07:00 GT · {now_utc.strftime('%a %d %b')}\n"
             f"{btc_str}\n\n"
             + "\n".join(lines),
-            priority="default", tags="chart_bar", destino="radar",
+            priority="default", tags="chart_bar", destino="principal",
         )
         new_state["_open_sent"] = True
         alerts_sent += 1
@@ -1155,7 +1155,7 @@ def main():
             + f"Trades ejecutados hoy: {today_count}/{DAILY_LIMIT}\n"
             + best_str +
             f"\nProxima sesion: 07:00 GT manana",
-            priority="default", tags="chart_bar", destino="radar",
+            priority="default", tags="chart_bar", destino="principal",
         )
         new_state["_close_sent"] = True
         alerts_sent += 1
