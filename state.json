@@ -111,9 +111,6 @@
     "st_confluencia": "bear"
   },
   "_vol_extrema_NEARUSDT": false,
-  "_trade_count": {
-    "2026-08-15": 1
-  },
   "_trade_NEARUSDT": {
     "entry": 1.6364,
     "sl": 1.629,
@@ -128,7 +125,7 @@
   "_forming_NEARUSDT": "none",
   "_b_1h_NEARUSDT": false,
   "NEARUSDT": {
-    "grade": "prec",
+    "grade": "none",
     "blocked": false,
     "stc_warn": false,
     "st_direction": "bull",
@@ -214,5 +211,7 @@
     "st_direction": "bear",
     "st_confluencia": null
   },
-  "_consecutive_expired": 0
+  "_consecutive_expired": 0,
+  "_circuit_breaker_sent": false,
+  "_circuit_breaker_date": "2026-08-15"
 }
