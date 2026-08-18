@@ -79,17 +79,17 @@
     "st_direction": "bull",
     "st_confluencia": "bull"
   },
-  "_vol_extrema_LINKUSDT": false,
+  "_vol_extrema_LINKUSDT": true,
   "_forming_LINKUSDT": "none",
   "_b_1h_LINKUSDT": false,
   "LINKUSDT": {
-    "grade": "none",
-    "blocked": false,
+    "grade": "blocked",
+    "blocked": true,
     "stc_warn": false,
     "st_direction": "bull",
     "st_confluencia": "bull"
   },
-  "_vol_extrema_DOTUSDT": false,
+  "_vol_extrema_DOTUSDT": true,
   "_trade_DOTUSDT": {
     "entry": 0.8533,
     "sl": 0.8381,
@@ -211,5 +211,7 @@
     "st_direction": "bull",
     "st_confluencia": "bull"
   },
-  "_consecutive_expired": 0
+  "_consecutive_expired": 0,
+  "_circuit_breaker_sent": false,
+  "_circuit_breaker_date": "2026-08-18"
 }
