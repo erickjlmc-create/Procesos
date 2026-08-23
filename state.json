@@ -99,7 +99,7 @@
     "st_direction": "bear",
     "st_confluencia": null
   },
-  "_vol_extrema_NEARUSDT": true,
+  "_vol_extrema_NEARUSDT": false,
   "_forming_NEARUSDT": "none",
   "_b_1h_NEARUSDT": false,
   "NEARUSDT": {
@@ -169,7 +169,7 @@
     "st_direction": "bear",
     "st_confluencia": null
   },
-  "_vol_extrema_ZECUSDT": true,
+  "_vol_extrema_ZECUSDT": false,
   "_forming_ZECUSDT": "none",
   "_b_1h_ZECUSDT": false,
   "ZECUSDT": {
@@ -191,5 +191,5 @@
   },
   "_consecutive_expired": 0,
   "_circuit_breaker_sent": false,
-  "_circuit_breaker_date": "2026-08-22"
+  "_circuit_breaker_date": "2026-08-23"
 }
