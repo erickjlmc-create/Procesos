@@ -79,11 +79,25 @@
     "st_direction": "bear",
     "st_confluencia": "bear"
   },
-  "_vol_extrema_LINKUSDT": false,
+  "_vol_extrema_LINKUSDT": true,
+  "_trade_count": {
+    "2026-08-29": 1
+  },
+  "_trade_LINKUSDT": {
+    "entry": 11.385,
+    "sl": 11.3797,
+    "tp1": 11.3771,
+    "tp2": 11.3718,
+    "tp3": 11.3638,
+    "direction": "none",
+    "tp1_hit": false,
+    "tp2_hit": false,
+    "tp3_hit": false
+  },
   "_forming_LINKUSDT": "none",
-  "_b_1h_LINKUSDT": false,
+  "_b_1h_LINKUSDT": true,
   "LINKUSDT": {
-    "grade": "none",
+    "grade": "B",
     "blocked": false,
     "stc_warn": false,
     "st_direction": "bull",
@@ -189,7 +203,5 @@
     "st_direction": "bear",
     "st_confluencia": null
   },
-  "_consecutive_expired": 0,
-  "_circuit_breaker_sent": false,
-  "_circuit_breaker_date": "2026-08-29"
+  "_consecutive_expired": 0
 }
