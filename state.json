@@ -96,8 +96,8 @@
     "grade": "none",
     "blocked": false,
     "stc_warn": false,
-    "st_direction": "bear",
-    "st_confluencia": "bear"
+    "st_direction": "bull",
+    "st_confluencia": null
   },
   "_vol_extrema_NEARUSDT": false,
   "_forming_NEARUSDT": "none",
@@ -136,8 +136,8 @@
     "grade": "none",
     "blocked": false,
     "stc_warn": false,
-    "st_direction": "bull",
-    "st_confluencia": null
+    "st_direction": "bear",
+    "st_confluencia": "bear"
   },
   "_vol_extrema_INJUSDT": true,
   "_forming_INJUSDT": "none",
@@ -146,8 +146,8 @@
     "grade": "none",
     "blocked": false,
     "stc_warn": false,
-    "st_direction": "bull",
-    "st_confluencia": null
+    "st_direction": "bear",
+    "st_confluencia": "bear"
   },
   "_vol_extrema_WLDUSDT": false,
   "_forming_WLDUSDT": "none",
@@ -186,8 +186,8 @@
     "grade": "none",
     "blocked": false,
     "stc_warn": false,
-    "st_direction": "bull",
-    "st_confluencia": "bull"
+    "st_direction": "bear",
+    "st_confluencia": null
   },
   "_consecutive_expired": 0
 }
