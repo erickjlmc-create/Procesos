@@ -59,11 +59,25 @@
     "st_direction": "bull",
     "st_confluencia": "bull"
   },
-  "_vol_extrema_DOGEUSDT": false,
+  "_vol_extrema_DOGEUSDT": true,
+  "_trade_count": {
+    "2026-09-22": 1
+  },
+  "_trade_DOGEUSDT": {
+    "entry": 0.10053,
+    "sl": 0.0986,
+    "tp1": 0.1034,
+    "tp2": 0.1053,
+    "tp3": 0.1081,
+    "direction": "long",
+    "tp1_hit": false,
+    "tp2_hit": false,
+    "tp3_hit": false
+  },
   "_forming_DOGEUSDT": "none",
   "_b_1h_DOGEUSDT": false,
   "DOGEUSDT": {
-    "grade": "none",
+    "grade": "prec",
     "blocked": false,
     "stc_warn": false,
     "st_direction": "bull",
@@ -89,7 +103,7 @@
     "st_direction": "bear",
     "st_confluencia": null
   },
-  "_vol_extrema_DOTUSDT": false,
+  "_vol_extrema_DOTUSDT": true,
   "_forming_DOTUSDT": "none",
   "_b_1h_DOTUSDT": false,
   "DOTUSDT": {
@@ -189,7 +203,5 @@
     "st_direction": "bear",
     "st_confluencia": "bear"
   },
-  "_consecutive_expired": 0,
-  "_circuit_breaker_sent": false,
-  "_circuit_breaker_date": "2026-09-22"
+  "_consecutive_expired": 0
 }
