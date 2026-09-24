@@ -1,9 +1,23 @@
 {
-  "_vol_extrema_BTCUSDT": false,
+  "_vol_extrema_BTCUSDT": true,
+  "_trade_count": {
+    "2026-09-24": 1
+  },
+  "_trade_BTCUSDT": {
+    "entry": 84406.429688,
+    "sl": 83625.839,
+    "tp1": 83235.5437,
+    "tp2": 82454.9531,
+    "tp3": 81284.0671,
+    "direction": "none",
+    "tp1_hit": false,
+    "tp2_hit": false,
+    "tp3_hit": false
+  },
   "_forming_BTCUSDT": "none",
-  "_b_1h_BTCUSDT": false,
+  "_b_1h_BTCUSDT": true,
   "BTCUSDT": {
-    "grade": "none",
+    "grade": "B",
     "blocked": false,
     "stc_warn": false,
     "st_direction": "bull",
@@ -78,7 +92,7 @@
     "blocked": false,
     "stc_warn": false,
     "st_direction": "bull",
-    "st_confluencia": null
+    "st_confluencia": "bull"
   },
   "_vol_extrema_AVAXUSDT": false,
   "_forming_AVAXUSDT": "none",
@@ -90,15 +104,15 @@
     "st_direction": "bull",
     "st_confluencia": null
   },
-  "_vol_extrema_LINKUSDT": false,
+  "_vol_extrema_LINKUSDT": true,
   "_forming_LINKUSDT": "none",
   "_b_1h_LINKUSDT": false,
   "LINKUSDT": {
-    "grade": "none",
-    "blocked": false,
+    "grade": "blocked",
+    "blocked": true,
     "stc_warn": false,
     "st_direction": "bull",
-    "st_confluencia": null
+    "st_confluencia": "bull"
   },
   "_vol_extrema_DOTUSDT": false,
   "_forming_DOTUSDT": "none",
@@ -150,12 +164,12 @@
     "st_direction": "bull",
     "st_confluencia": "bull"
   },
-  "_vol_extrema_INJUSDT": false,
+  "_vol_extrema_INJUSDT": true,
   "_forming_INJUSDT": "none",
   "_b_1h_INJUSDT": false,
   "INJUSDT": {
-    "grade": "none",
-    "blocked": false,
+    "grade": "blocked",
+    "blocked": true,
     "stc_warn": false,
     "st_direction": "bull",
     "st_confluencia": "bull"
@@ -197,10 +211,8 @@
     "grade": "none",
     "blocked": false,
     "stc_warn": false,
-    "st_direction": "bull",
-    "st_confluencia": null
+    "st_direction": "bear",
+    "st_confluencia": "bear"
   },
-  "_consecutive_expired": 0,
-  "_circuit_breaker_sent": false,
-  "_circuit_breaker_date": "2026-09-24"
+  "_consecutive_expired": 0
 }
