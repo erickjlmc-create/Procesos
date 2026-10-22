@@ -10,7 +10,7 @@
     "st_confluencia": "bear"
   },
   "_vol_extrema_ETHUSDT": false,
-  "_forming_ETHUSDT": "short",
+  "_forming_ETHUSDT": "none",
   "_b_1h_ETHUSDT": false,
   "ETHUSDT": {
     "grade": "none",
@@ -50,7 +50,7 @@
     "st_confluencia": "bear"
   },
   "_vol_extrema_XRPUSDT": false,
-  "_forming_XRPUSDT": "short",
+  "_forming_XRPUSDT": "none",
   "_b_1h_XRPUSDT": false,
   "XRPUSDT": {
     "grade": "none",
@@ -101,23 +101,10 @@
     "st_confluencia": "bear"
   },
   "_vol_extrema_DOTUSDT": false,
-  "_trade_count": {
-    "2026-10-22": 1
-  },
-  "_trade_DOTUSDT": {
-    "entry": 1.1204,
-    "sl": 1.132,
-    "tp1": 1.1031,
-    "tp2": 1.0915,
-    "tp3": 1.0742,
-    "direction": "short",
-    "tp1_hit": false,
-    "tp2_hit": false,
-    "tp3_hit": false
-  },
-  "_b_1h_DOTUSDT": true,
+  "_forming_DOTUSDT": "short",
+  "_b_1h_DOTUSDT": false,
   "DOTUSDT": {
-    "grade": "B",
+    "grade": "none",
     "blocked": false,
     "stc_warn": false,
     "st_direction": "bear",
@@ -213,7 +200,5 @@
     "st_direction": "bear",
     "st_confluencia": "bear"
   },
-  "_consecutive_expired": 0,
-  "_circuit_breaker_sent": false,
-  "_circuit_breaker_date": "2026-10-22"
+  "_consecutive_expired": 1
 }
